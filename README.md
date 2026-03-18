@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya1kumbhar&label=Profile%20views&color=0e75b6&style=flat" alt="aditya1kumbhar" /> </p>
 
-- 🔭 I’m currently working on **WaitCheck AI – Real-time queue & fee transparency web app**
+- 🔭 I’m currently working on **RateIt – Real-time queue & fee transparency web app**
 
-- 🌱 I’m currently learning **Tailwind CSS, Firebase, GitHub Projects, and data structures with C, Javascript**
+- 🌱 I’m currently learning **Tailwind CSS, Firebase, SupaBase, GitHub Projects, and data structures with C, Javascript**
 
 - 👯 I’m looking to collaborate on **Smart India Hackathon–level public utility projects**
 
 - 🤝 I’m looking for help with **Making my SIH project powerful, user-first & scalable**
 
-- 💬 Ask me about **Frontend development, animations with GSAP, React basics, UI/UX ideas😄**
+- 💬 Ask me about **Frontend development, animations with GSAP, Mobile-Video Editing, SaaS, React basics, UI/UX ideas😄**
 
 - 📫 How to reach me **adityakumbhar038@gmail.com**
 
-- ⚡ Fun fact **I mix massy South Indian BGM with frontend code and career clarity! 🎧👨‍💻 A techie💡**
+- **🎧👨‍💻 A techie💡**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
