@@ -1,30 +1,26 @@
-<h1 align="center">Hey 👋, Adi Here</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Aditya Kumbhar
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya1kumbhar&label=Profile%20views&color=0e75b6&style=flat" alt="aditya1kumbhar" /> </p>
+Third-year B.Sc. Computer Applications student (SPPU, 2028) and full-stack developer from Pune, India. I build and ship real products, end to end.
 
-- 🔭 I’m currently working on **RateIt – Real-time queue & fee transparency web app**
+## What I have built
 
-- 🌱 I’m currently learning **Tailwind CSS, Firebase, SupaBase, GitHub Projects, and data structures with C, Javascript**
+- **[VitalGuard C3](https://github.com/Aditya1kumbhar/vitalguard-c3)**: screenless Edge AI wristband for elderly care. Fall detection and heart-rate/SpO2 monitoring run fully on-device (ESP32, MAX30102, MPU6050). [Live dashboard](https://vitalguard-c3.vercel.app)
+- **[SevaCare](https://github.com/Aditya1kumbhar/SevaCare)**: offline-first elderly-care PWA (Next.js, Supabase, IndexedDB), piloted at an old-age home in Pune. [Live app](https://seva-care-db.vercel.app)
+- **[ORCA / Tarang](https://github.com/Aditya1kumbhar/Tarang)**: multi-agent ocean-safety platform for fishing harbours (FastAPI + React), live in production. [Live app](https://tarang-0v0t.onrender.com)
+- **[RateIT](https://github.com/Aditya1kumbhar/rateit-platform)**: hyperlocal verified review platform for local businesses and services.
 
-- 👯 I’m looking to collaborate on **Smart India Hackathon–level public utility projects**
+## Stack
 
-- 🤝 I’m looking for help with **Making my SIH project powerful, user-first & scalable**
+![Stack](https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,postgres,prisma,supabase,python)
 
-- 💬 Ask me about **Frontend development, animations with GSAP, Mobile-Video Editing, SaaS, React basics, UI/UX ideas😄**
+## GitHub stats
 
-- 📫 How to reach me **adityakumbhar038@gmail.com**
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya1kumbhar&show_icons=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&hide_border=true)
 
-- **🎧👨‍💻 A techie💡**
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya1kumbhar&layout=compact&title_color=58A6FF&text_color=C3D1D9&bg_color=0D1117&hide_border=true)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/aadityakumbhar7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aadityakumbhar7" height="30" width="40" /></a>
-</p>
+## Contact
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya1kumbhar&show_icons=true&locale=en&layout=compact" alt="aditya1kumbhar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya1kumbhar&show_icons=true&locale=en" alt="aditya1kumbhar" /></p>
+- LinkedIn: https://www.linkedin.com/in/aditya-kumbhar-1b6355322
+- Email: adityakumbhar038@gmail.com
+- Pune, India. Open to internships, hybrid or in-office.
