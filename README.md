@@ -13,12 +13,6 @@ Third-year B.Sc. Computer Applications student (SPPU, 2028) and full-stack devel
 
 ![Stack](https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,postgres,prisma,supabase,python)
 
-## GitHub stats
-
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditya1kumbhar&show_icons=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117&hide_border=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya1kumbhar&layout=compact&title_color=58A6FF&text_color=C3D1D9&bg_color=0D1117&hide_border=true)
-
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/aditya-kumbhar-1b6355322
