@@ -13,6 +13,13 @@ Third-year B.Sc. Computer Applications student (SPPU, 2028) and full-stack devel
 
 ![Stack](https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,postgres,prisma,supabase,python)
 
+## Achievements
+
+- Placed 2nd (Runner-Up), Smart India Hackathon (SIH) 2025, college level
+- Round 1 cleared, Indradhanu Hackathon 2026, as part of Team RISE-A2S1
+- Selected Representative, Avishkar Innovation Competition (based on the RateIT project)
+- Research paper presented: "Analyzing the Journey of Gukesh Dommaraju in Chess", BRICS World of Traditions International Conference, Moscow, Feb 2025
+
 ## Contact
 
 - LinkedIn: https://www.linkedin.com/in/aditya-kumbhar-1b6355322
