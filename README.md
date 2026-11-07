@@ -17,6 +17,7 @@ Third-year B.Sc. Computer Applications student (SPPU, 2028) and full-stack devel
 
 - Placed 2nd (Runner-Up), Smart India Hackathon (SIH) 2025, college level
 - Round 1 cleared, Indradhanu Hackathon 2026, as part of Team RISE-A2S1
+- Student Representative, Technical Club committee, Sarhad College, Pune
 - Selected Representative, Avishkar Innovation Competition (based on the RateIT project)
 - Research paper presented: "Analyzing the Journey of Gukesh Dommaraju in Chess", BRICS World of Traditions International Conference, Moscow, Feb 2025
 
