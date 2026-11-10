@@ -23,7 +23,7 @@ Third-year B.Sc. Computer Applications student (SPPU, 2028) and full-stack devel
 
 ## Contact
 
-- LinkedIn: https://www.linkedin.com/in/aditya-kumbhar-1b6355322
+- LinkedIn: https://www.linkedin.com/in/adityakumbhar
 - Instagram: https://instagram.com/adii.dmg
 - Email: adityakumbhar038@gmail.com
 - Pune, India. Open to internships, hybrid or in-office.
