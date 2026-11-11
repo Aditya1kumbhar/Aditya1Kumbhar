@@ -2,6 +2,8 @@
 
 Third-year B.Sc. Computer Applications student (SPPU, 2028) and full-stack developer from Pune, India. I build and ship real products, end to end.
 
+**Portfolio: [adityakumbhar.vercel.app](https://adityakumbhar.vercel.app)**: every product live, the research, and the full story in one place.
+
 ## What I have built
 
 - **[VitalGuard C3](https://github.com/Aditya1kumbhar/vitalguard-c3)**: screenless Edge AI wristband for elderly care. Fall detection and heart-rate/SpO2 monitoring run fully on-device (ESP32, MAX30102, MPU6050). [Live dashboard](https://vitalguard-c3.vercel.app)
@@ -23,6 +25,7 @@ Third-year B.Sc. Computer Applications student (SPPU, 2028) and full-stack devel
 
 ## Contact
 
+- Portfolio: https://adityakumbhar.vercel.app
 - LinkedIn: https://www.linkedin.com/in/adityakumbhar
 - Instagram: https://instagram.com/adii.dmg
 - Email: adityakumbhar038@gmail.com
