@@ -19,7 +19,7 @@ Third-year B.Sc. Computer Applications student (SPPU, 2028) and full-stack devel
 - Team Leader, Team RISE-A2S1, PCCOE IGC Indradhanu 2026: Round 1 cleared, Round 2 prototype film submitted 10 Nov 2026
 - Student Representative, Technical Club committee, Sarhad College, Pune
 - Selected Representative, Avishkar Innovation Competition (based on the RateIT project)
-- Research paper presented: "Analyzing the Journey of Gukesh Dommaraju in Chess", BRICS World of Traditions International Conference, Moscow, Feb 2025
+- Research paper presented: "Analyzing the Journey of Gukesh Dommaraju in Chess", 26th International Interdisciplinary Conference (BRICS World of Traditions), Pune, Feb 2025
 
 ## Contact
 
